@@ -1,5 +1,11 @@
 This is a program to drive an Arduino used in an interactive sculture.
 
+
+
+https://user-images.githubusercontent.com/2333525/206063099-32e7ddca-cea9-497d-98be-645a4db2431a.mp4
+
+
+
 The sculpture was used in a one woman show about a fictional "hippie" artist. The sculpture portrays a human male torso, covered in crushed orange prescription pill bottles. The outline of a throat and stomach are displayed on the front and outlined with EL wire. There is a push button on the top of the torso where the head would be. Pressing the button triggers this series of actions:
 
 1. A pulse of white LEDs moves down the throat, into the stomach
